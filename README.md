@@ -1,0 +1,2 @@
+# CSS + JS Clock (02)  
+This project follows the [JavaScript30](https://javascript30.com/) tutorial demonstrating how to take the current time in from JavaScript and update the hour, minute, and seconds hands.
